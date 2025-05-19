@@ -1,9 +1,1 @@
-<svg width="126" height="111" viewBox="0 0 126 111" fill="none" xmlns="http://www.w3.org/2000/svg">
-	<rect x="0.5" y="0.5" width="124.157" height="109.336" rx="4.5" stroke="#E4EBF0"/>
-	<rect x="42" y="79" width="43" height="12" rx="2.50705" fill="#C8D0D7"/>
-	<rect x="33" y="50.5694" width="61.5234" height="5.59304" fill="#E4EBF0"/>
-	<rect x="19" y="61.7555" width="88.0903" height="2.79652" fill="#E4EBF0"/>
-	<rect x="29" y="68.7468" width="69.9129" height="2.79652" fill="#E4EBF0"/>
-	<ellipse cx="63.6812" cy="30.6776" rx="10.6813" ry="10.6776" fill="#E4EBF0"/>
-	<path d="M59.5274 30.6779L63.0878 33.6439L67.8351 27.7119" stroke="#C8D0D7" stroke-width="1.39826"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="126" height="111" fill="none" viewBox="0 0 126 111"><rect width="124.157" height="109.336" x=".5" y=".5" stroke="#E4EBF0" rx="4.5"/><rect width="43" height="12" x="42" y="79" fill="#C8D0D7" rx="2.507"/><rect width="61.523" height="5.593" x="33" y="50.569" fill="#E4EBF0"/><rect width="88.09" height="2.797" x="19" y="61.755" fill="#E4EBF0"/><rect width="69.913" height="2.797" x="29" y="68.747" fill="#E4EBF0"/><ellipse cx="63.681" cy="30.678" fill="#E4EBF0" rx="10.681" ry="10.678"/><path stroke="#C8D0D7" stroke-width="1.398" d="M59.5274 30.6779L63.0878 33.6439L67.8351 27.7119"/></svg>
